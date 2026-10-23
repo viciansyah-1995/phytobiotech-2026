@@ -68,7 +68,7 @@ export default function EnquiryForm({
             <div>
               <strong>PT Phyto Anugrah Biotech</strong>
               <p>
-                Two laboratory categories.
+                Kratom extracts for your next formulation.
                 <br />
                 Sample-specific analysis documentation.
               </p>

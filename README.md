@@ -30,7 +30,7 @@ Proyek dapat berjalan tanpa file `.env`, database, atau layanan tambahan.
 - Industrial Applications di setiap kategori: raw leaf powder, extract, gummies, tablets/capsules/gelcaps, soft drinks, dan vape.
 - Galeri dokumen dengan thumbnail, navigasi halaman, dan tampilan dokumen yang bisa diperbesar.
 - Formulir dan bubble WhatsApp dengan pesan sesuai kategori yang dipilih.
-- Menu mobile, submenu About, animasi ringan, dan dukungan pengaturan reduced motion.
+- Menu mobile, submenu About, dropdown kategori Product, animasi ringan, dan dukungan pengaturan reduced motion.
 
 Formulir menyiapkan pesan terlebih dahulu. Pengunjung tetap harus melanjutkan ke WhatsApp dan mengirim pesannya sendiri. Website belum menyimpan data enquiry atau mengirim email.
 
@@ -92,6 +92,7 @@ docs/                       Panduan teknis, konten, sumber, dan pemeriksaan
 
 ## Dokumentasi lanjutan
 
+- [Penyempurnaan UI dan grid](docs/penyempurnaan-ui.md) — aturan tata letak dan desain aplikasi industri.
 - [Panduan pengembangan](docs/pengembangan.md) — alur kerja, komponen, dan pemeriksaan sebelum rilis.
 - [Panduan mengubah konten](docs/panduan-konten.md) — kategori, aplikasi industri, dokumen, dan kontak.
 - [Sumber konten dan gambar](docs/content-sources.md) — asal materi yang digunakan.

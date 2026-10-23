@@ -1,0 +1,122 @@
+[
+  {
+    "width": 320,
+    "route": "/",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": true,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "route": "/product",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": false,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "route": "/",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": true,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "route": "/product",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": false,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": true,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/product",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": false,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "route": "/",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": true,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "route": "/product",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": false,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": true,
+    "oldCopy": false,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/product",
+    "applications": [
+      6,
+      6
+    ],
+    "categories": 2,
+    "form": false,
+    "oldCopy": false,
+    "overflow": false
+  }
+]

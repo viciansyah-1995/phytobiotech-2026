@@ -26,7 +26,7 @@ export default function AboutPage() {
         <div className="quality-copy">
           <span className="eyebrow">OUR CURRENT FOCUS</span>
           <h2>
-            Two laboratory categories.
+            Extracts with possibilities.
             <br />
             <em>Clear information.</em>
           </h2>

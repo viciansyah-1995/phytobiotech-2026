@@ -31,10 +31,9 @@ export default function Home() {
             for B2B Supply<span className="period">.</span>
           </h1>
           <p>
-            Explore our kratom extract powder documentation through two laboratory
-            categories: Murray-Brown Laboratories and BIOTEK Rekayasa Indonesia.
-            Contact our team to discuss product specifications and supply
-            requirements.
+            Bring your next formulation forward with Indonesian kratom extract
+            powder. Explore our product categories, review the laboratory reports,
+            and discuss the right specifications for your business.
           </p>
           <div className="hero-actions">
             <Link className="button" href="/product">
@@ -51,7 +50,7 @@ export default function Home() {
             <span>
               Powder format.
               <br />
-              <strong>Two laboratory categories.</strong>
+              <strong>Extracts for your next formulation.</strong>
             </span>
           </div>
         </div>
@@ -105,7 +104,7 @@ export default function Home() {
         </div>
         <div>
           <FlaskConical />
-          Two laboratory categories
+          Versatile formulation possibilities
         </div>
         <div>
           <Microscope />
@@ -126,9 +125,9 @@ export default function Home() {
           </div>
           <div data-reveal="" className="section-heading">
             <h2>
-              Two laboratory categories.
+              Your next formulation.
               <br />
-              <em>One clear view.</em>
+              <em>Starts with the right extract.</em>
             </h2>
             <p>
               Explore Murray-Brown’s analysis report and both BIOTEK certificates,
@@ -241,7 +240,7 @@ export default function Home() {
             <div>
               <FlaskConical size={23} />
               <h3>Product documentation</h3>
-              <p>Two laboratory categories with sample-specific documentation.</p>
+              <p>Explore kratom extract powder for your next formulation.</p>
             </div>
             <div>
               <MessageCircle size={23} />

@@ -8,9 +8,9 @@ export const metadata: Metadata = {
 export default function ProductPage() {
   return (
     <main id="top">
-      <PageIntro eyebrow="PRODUCT & DOCUMENTATION" title="Two laboratory categories. One clear view." description="Explore our kratom extract powder documentation by laboratory. Murray-Brown’s analysis report forms one category; both BIOTEK certificates are grouped together in the other." />
+      <PageIntro eyebrow="PRODUCT & DOCUMENTATION" title="Kratom extracts. More possibilities." description="Find the starting point for your next formulation. Explore our product categories, review the supporting laboratory reports, and discover a shared range of industrial applications." />
       <section className="ingredients section-pad standalone-section">
-        <div className="wrap"><OutputCards /></div>
+        <div className="wrap"><OutputCards headingLevel="h2" /></div>
       </section>
     </main>
   );

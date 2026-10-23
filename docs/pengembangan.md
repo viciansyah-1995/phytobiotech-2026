@@ -15,6 +15,7 @@ Proyek memakai Next.js App Router. Setiap halaman berada di `app/<nama-halaman>/
 | Komponen | Tanggung jawab |
 | --- | --- |
 | `site-frame.tsx` | Kerangka halaman, menu mobile, submenu About, dan footer |
+| `navigation-dropdown.tsx` | Dropdown About dan Product, termasuk keyboard serta penutupan di luar menu |
 | `page-intro.tsx` | Judul dan pengantar halaman |
 | `output-cards.tsx` | Kartu Murray-Brown dan BIOTEK di Home serta Product |
 | `industrial-applications.tsx` | Enam penerapan yang sama di setiap kartu kategori |
