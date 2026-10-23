@@ -2,6 +2,8 @@
 
 Website perusahaan **PT Phyto Anugrah Biotech**, dengan informasi produk, dokumen laboratorium, dan formulir permintaan informasi melalui WhatsApp.
 
+Website produksi: [phytobiotech-2026.vercel.app](https://phytobiotech-2026.vercel.app).
+
 Tampilan menggunakan tema terang dengan warna hijau dan logo perusahaan. Seluruh konten pengunjung ditulis dalam bahasa Inggris.
 
 ## Menjalankan proyek
@@ -93,6 +95,7 @@ docs/                       Panduan teknis, konten, sumber, dan pemeriksaan
 ## Dokumentasi lanjutan
 
 - [Penyempurnaan UI dan grid](docs/penyempurnaan-ui.md) — aturan tata letak dan desain aplikasi industri.
+- [Deployment Vercel](docs/deployment.md) — alamat produksi, konfigurasi, dan pemeriksaan setelah deploy.
 - [Panduan pengembangan](docs/pengembangan.md) — alur kerja, komponen, dan pemeriksaan sebelum rilis.
 - [Panduan mengubah konten](docs/panduan-konten.md) — kategori, aplikasi industri, dokumen, dan kontak.
 - [Sumber konten dan gambar](docs/content-sources.md) — asal materi yang digunakan.
@@ -103,4 +106,4 @@ docs/                       Panduan teknis, konten, sumber, dan pemeriksaan
 
 Build dan pemeriksaan TypeScript berhasil. Tampilan Home dan Product sudah diperiksa pada lebar 375, 768, dan 1440 piksel. Masing-masing kategori menampilkan enam aplikasi industri yang sama; formulir di bawah Home tetap tersedia.
 
-Repository ini berisi kode dan aset website. Hosting produksi belum dikonfigurasi. Dependensi, hasil build, file `.env`, PDF sumber di folder sementara, dan screenshot pemeriksaan lokal tidak disertakan.
+Repository ini berisi kode dan aset website. Website sudah berjalan di Vercel; konfigurasi dan catatan pemeriksaannya tersedia di panduan deployment. Dependensi, hasil build, file `.env`, PDF sumber di folder sementara, dan screenshot pemeriksaan lokal tidak disertakan.

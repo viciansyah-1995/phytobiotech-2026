@@ -1,0 +1,72 @@
+{
+  "baseUrl": "https://phytobiotech-2026.vercel.app",
+  "commit": "ccf09dcba81e4a6073850b8e8007cde72b32ad19",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/about",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/profile",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/profile",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/product",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/product",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/labtest",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/labtest",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/qualitycontrol",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/qualitycontrol",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/contact",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/images/phytobiotech-logo-dark.png",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/images/phytobiotech-logo-dark.png",
+      "contentType": "image/png"
+    },
+    {
+      "path": "/images/reports/biotek-002-1.webp",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/images/reports/biotek-002-1.webp",
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/images/reports/murray-1-thumb.webp",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/images/reports/murray-1-thumb.webp",
+      "contentType": "image/webp"
+    },
+    {
+      "path": "/images/applications/gum.webp",
+      "status": 200,
+      "url": "https://phytobiotech-2026.vercel.app/images/applications/gum.webp",
+      "contentType": "image/webp"
+    }
+  ]
+}

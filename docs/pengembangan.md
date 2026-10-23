@@ -82,4 +82,4 @@ Snapshot awal pada `laboratory-category-qa.json` merekam pilihan formulir sebelu
 
 ## Hosting
 
-Build produksi dijalankan dengan `npm run build`, kemudian `npm run start`. Repository belum memiliki pipeline deployment, domain produksi, atau konfigurasi hosting. Penambahan hosting dan layanan formulir dilakukan terpisah dari konfigurasi lokal ini.
+Build produksi dijalankan dengan `npm run build`, kemudian `npm run start`. Website produksi berjalan di Vercel pada [phytobiotech-2026.vercel.app](https://phytobiotech-2026.vercel.app). Konfigurasi dan pemeriksaan setelah deploy dijelaskan dalam [panduan deployment](deployment.md). Proyek belum memakai pipeline CI khusus atau backend formulir.
