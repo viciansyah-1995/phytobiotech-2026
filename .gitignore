@@ -1,0 +1,16 @@
+# Dependensi dan hasil build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Konfigurasi lokal
+.env*
+.vercel/
+.DS_Store
+*.log
+
+# Berkas kerja dan screenshot pemeriksaan
+tmp/
+preview/
+coverage/

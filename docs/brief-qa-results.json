@@ -1,0 +1,406 @@
+{
+  "responsive": [
+    {
+      "width": 375,
+      "route": "/",
+      "cards": 2,
+      "content": 360,
+      "heading": "Indonesian KratomExtract Powderfor B2B Supply.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/about",
+      "cards": 0,
+      "content": 360,
+      "heading": "PT Phyto Anugrah Biotech",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/profile",
+      "cards": 0,
+      "content": 360,
+      "heading": "The plant and the measurement.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/product",
+      "cards": 2,
+      "content": 360,
+      "heading": "Our Current Kratom Extract Powder Outputs",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/labtest",
+      "cards": 0,
+      "content": 360,
+      "heading": "Sample Analysis Summaries",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [
+        {
+          "client": 320,
+          "scroll": 320
+        },
+        {
+          "client": 320,
+          "scroll": 320
+        },
+        {
+          "client": 320,
+          "scroll": 320
+        }
+      ],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/qualitycontrol",
+      "cards": 2,
+      "content": 360,
+      "heading": "Laboratory Analysis and Quality Documentation",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360
+    },
+    {
+      "width": 375,
+      "route": "/contact",
+      "cards": 0,
+      "content": 360,
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 360,
+      "heading": "Request productinformation."
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "cards": 2,
+      "content": 753,
+      "heading": "Indonesian KratomExtract Powderfor B2B Supply.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/about",
+      "cards": 0,
+      "content": 753,
+      "heading": "PT Phyto Anugrah Biotech",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/profile",
+      "cards": 0,
+      "content": 753,
+      "heading": "The plant and the measurement.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/product",
+      "cards": 2,
+      "content": 753,
+      "heading": "Our Current Kratom Extract Powder Outputs",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/labtest",
+      "cards": 0,
+      "content": 753,
+      "heading": "Sample Analysis Summaries",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [
+        {
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "client": 689,
+          "scroll": 689
+        }
+      ],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/qualitycontrol",
+      "cards": 2,
+      "content": 753,
+      "heading": "Laboratory Analysis and Quality Documentation",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753
+    },
+    {
+      "width": 768,
+      "route": "/contact",
+      "cards": 0,
+      "content": 753,
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 753,
+      "heading": "Request productinformation."
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "cards": 2,
+      "content": 1425,
+      "heading": "Indonesian KratomExtract Powderfor B2B Supply.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/about",
+      "cards": 0,
+      "content": 1425,
+      "heading": "PT Phyto Anugrah Biotech",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/profile",
+      "cards": 0,
+      "content": 1425,
+      "heading": "The plant and the measurement.",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/product",
+      "cards": 2,
+      "content": 1425,
+      "heading": "Our Current Kratom Extract Powder Outputs",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/labtest",
+      "cards": 0,
+      "content": 1425,
+      "heading": "Sample Analysis Summaries",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [
+        {
+          "client": 1240,
+          "scroll": 1240
+        },
+        {
+          "client": 1240,
+          "scroll": 1240
+        },
+        {
+          "client": 1240,
+          "scroll": 1240
+        }
+      ],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/qualitycontrol",
+      "cards": 2,
+      "content": 1425,
+      "heading": "Laboratory Analysis and Quality Documentation",
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425
+    },
+    {
+      "width": 1440,
+      "route": "/contact",
+      "cards": 0,
+      "content": 1425,
+      "imagesFailed": [],
+      "legacy": false,
+      "tablesOverflow": [],
+      "viewport": 1425,
+      "heading": "Request productinformation."
+    }
+  ],
+  "http": [
+    {
+      "route": "/",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/profile",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/product",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/labtest",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/qualitycontrol",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "legacy": false,
+      "hasEnglish": true,
+      "noPdfDownload": true
+    }
+  ],
+  "localLinks": [
+    {
+      "path": "/icon.png?icon.1pfq-f_ggtbou.png",
+      "status": 200
+    },
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/images/phytobiotech-logo-dark.png",
+      "status": 200
+    },
+    {
+      "path": "/about",
+      "status": 200
+    },
+    {
+      "path": "/profile",
+      "status": 200
+    },
+    {
+      "path": "/product",
+      "status": 200
+    },
+    {
+      "path": "/labtest",
+      "status": 200
+    },
+    {
+      "path": "/qualitycontrol",
+      "status": 200
+    },
+    {
+      "path": "/contact",
+      "status": 200
+    },
+    {
+      "path": "/images/company/hero.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/company/powder.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/company/origin.webp",
+      "status": 200
+    },
+    {
+      "path": "/images/company/production.webp",
+      "status": 200
+    }
+  ],
+  "interactions": {
+    "desktop_about_dropdown": "passed: hover/click and About Company route",
+    "mobile_about_dropdown": "passed: expand, collapse, profile navigation, menu closes on navigation",
+    "output_2_enquiry": "passed: selected from Product card; WhatsApp context contains Output 2, report 003/TRL-BRI/X/2026, BRI-TRL1026-0003",
+    "output_1_enquiry": "passed: switching output updates the prepared message to report 002 and sample 0002 only",
+    "documentation_cta": "passed: Output 1 preselected and analysis-documentation message prepared",
+    "whatsapp_bubble": "passed: Output 2 + analysis documentation includes report 003 and sample 0003",
+    "status": "Continue in WhatsApp to send your enquiry.",
+    "external_message_sent": false,
+    "production_deployed": false
+  },
+  "checks": {
+    "build": "passed",
+    "typescript": "passed",
+    "lint": "no lint script is configured",
+    "local_routes": 7,
+    "local_links_and_assets": 13,
+    "responsive_render_checks": 21,
+    "horizontal_overflow": false,
+    "new_pdf_or_laboratory_screenshot_in_public": false
+  },
+  "visual_comparison": {
+    "style": "existing light palette, typography, button geometry, hero frame, footer, and motion retained",
+    "changes": "brief-required menu hierarchy, company-source imagery, two output cards, report tables, separate framework routes",
+    "baseline_limit": "immediate pre-edit 375 px image has a resize artifact; retained compact-view source-copy.png used for qualitative comparison",
+    "pixel_identical_regression": false
+  }
+}

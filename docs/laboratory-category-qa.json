@@ -1,0 +1,92 @@
+[
+  {
+    "width": 375,
+    "route": "/",
+    "cards": 2,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  },
+  {
+    "width": 375,
+    "route": "/product",
+    "cards": 2,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "route": "/labtest",
+    "cards": 0,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "route": "/contact?output=biotek",
+    "cards": 0,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "cards": 2,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  },
+  {
+    "width": 768,
+    "route": "/product",
+    "cards": 2,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/labtest",
+    "cards": 0,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/contact?output=biotek",
+    "cards": 0,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "cards": 2,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  },
+  {
+    "width": 1440,
+    "route": "/product",
+    "cards": 2,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/labtest",
+    "cards": 0,
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/contact?output=biotek",
+    "cards": 0,
+    "homeForm": true,
+    "overflow": false,
+    "selected": "assistance"
+  }
+]

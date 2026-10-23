@@ -1,0 +1,182 @@
+[
+  {
+    "width": 375,
+    "route": "/product",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 375,
+    "route": "/",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": true,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/product",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": true,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/product",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": false,
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "route": "/",
+    "categories": [
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "murray-brown"
+      },
+      {
+        "applications": [
+          "Raw Leaf Powder",
+          "Extract",
+          "Gummies",
+          "Tablets, Capsules & Gelcaps",
+          "Soft Drinks",
+          "Vape"
+        ],
+        "id": "biotek"
+      }
+    ],
+    "homeForm": true,
+    "overflow": false
+  }
+]
