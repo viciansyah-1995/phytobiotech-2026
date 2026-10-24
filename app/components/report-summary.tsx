@@ -57,7 +57,7 @@ export default function ReportSummary({ output }: { output: PowderOutput }) {
           >
             <table className="analysis-table">
               <caption>
-                Additional results — report {output.reportNumber} only
+                Additional results for report {output.reportNumber} only
               </caption>
               <thead>
                 <tr>

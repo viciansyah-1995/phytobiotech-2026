@@ -36,7 +36,7 @@ Alamat pada kolom sumber menggunakan domain `phytobiotech.id`.
 | `/images/misc/s2.webp` | `public/images/company/origin.webp` |
 | `/images/1.webp` | `public/images/company/botanical.webp` |
 | `/images/logo-phytobiotech-dark.png` | `public/images/phytobiotech-logo-dark.png` |
-| `/images/murray_1.webp`, `/images/murray_2.webp` | `public/images/reports/murray-1.webp`, `murray-2.webp` |
+| `/images/murray_1.webp`, `/images/murray_2.webp` | `public/images/reports/murray-redacted-1.webp`, `murray-redacted-2.webp` |
 | Dua PDF BIOTEK yang diberikan perusahaan | `public/images/reports/biotek-002-*.webp` dan `biotek-003-*.webp` |
 | `/images/powder.webp` | `public/images/applications/powder.webp` |
 | `/images/ekstrak.webp` | `public/images/applications/ekstrak.webp` |
@@ -50,3 +50,5 @@ Ilustrasi bahan dan aplikasi tidak digunakan untuk mengidentifikasi sampel uji t
 ## Riwayat sumber
 
 Versi awal sempat mengikuti susunan katalog dan angka konsentrasi pada website lama. Susunan tersebut sudah diganti menjadi dua kategori berdasarkan laboratorium. Hasil BIOTEK yang digunakan sekarang adalah 82,27% dan 73,44% sesuai dua laporan terbaru, sementara Murray-Brown mengikuti laporan 2604935. Industrial Applications ditambahkan kembali sebagai penerapan bersama pada setiap kategori.
+
+Pratinjau Murray-Brown untuk website menggunakan versi dengan blok pelanggan yang disamarkan. Versi sebelumnya tidak lagi disertakan di direktori publik. Salinan sumber tidak diubah.

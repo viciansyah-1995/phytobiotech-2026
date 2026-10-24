@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "route": "/",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/profile",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/product",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/labtest",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/qualitycontrol",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "emDash": false,
+      "customerName": false
+    }
+  ],
+  "redactedImages": 4,
+  "oldPublicImagesRemoved": 4,
+  "pdfPages": 2,
+  "outsideCustomerBlockUnchanged": true
+}

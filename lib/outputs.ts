@@ -29,7 +29,7 @@ export type PowderOutput = {
 export const biotekReports: PowderOutput[] = [
   {
     id: "output-1",
-    label: "BIOTEK Analysis Report — 002",
+    label: "BIOTEK Analysis Report 002",
     number: "01",
     reportNumber: "002/TRL-BRI/X/2026",
     labSampleId: "BRI-TRL1026-0002",
@@ -49,7 +49,7 @@ export const biotekReports: PowderOutput[] = [
   },
   {
     id: "output-2",
-    label: "BIOTEK Analysis Report — 003",
+    label: "BIOTEK Analysis Report 003",
     number: "02",
     reportNumber: "003/TRL-BRI/X/2026",
     labSampleId: "BRI-TRL1026-0003",
@@ -175,7 +175,7 @@ export const outputs: OutputCategory[] = [
       id: "murray-2604935",
       title: "Murray-Brown Analysis Report",
       reference: "2604935",
-      pages: ["/images/reports/murray-1.webp", "/images/reports/murray-2.webp"],
+      pages: ["/images/reports/murray-redacted-1.webp", "/images/reports/murray-redacted-2.webp"],
     }],
   },
   {
@@ -193,7 +193,7 @@ export const outputs: OutputCategory[] = [
   },
 ];
 export function outputContext(output: OutputCategory) {
-  return `${output.label} — ${output.subtitle}\nReports: ${output.documents.map((d) => d.reference).join(", ")}`;
+  return `${output.label}: ${output.subtitle}\nReports: ${output.documents.map((d) => d.reference).join(", ")}`;
 }
 export function outputContactHref(output: OutputCategory | PowderOutput, documentation = false) {
   const id = output.id === "output-1" || output.id === "output-2" ? "biotek" : output.id;

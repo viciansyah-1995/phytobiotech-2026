@@ -17,7 +17,7 @@ Pengelompokan ini menggantikan susunan sebelumnya yang menampilkan dua laporan B
 | BIOTEK | 002/TRL-BRI/X/2026 | BRI-TRL1026-0002 | 82,27% |
 | BIOTEK | 003/TRL-BRI/X/2026 | BRI-TRL1026-0003 | 73,44% |
 
-Laporan Murray-Brown mencantumkan hasil 7-hydroxymitragynine **<1,88%**, berbeda dari copy pada website existing. Website ini mengikuti angka dalam dokumen asli. Nama pelanggan pada laporan tersebut adalah **PT Phyto Labs Indonesia**, dan keterangan ini ditampilkan pada ringkasannya.
+Laporan Murray-Brown mencantumkan hasil 7-hydroxymitragynine **<1,88%**, berbeda dari copy pada website existing. Website ini mengikuti angka dalam dokumen asli. Detail pelanggan pada pratinjau laporan Murray-Brown sudah disamarkan sesuai revisi. Nomor laporan, identitas sampel, tanggal, dan hasil uji tetap dipertahankan.
 
 Laporan BIOTEK 002 memiliki interpretasi NMR yang konsisten dengan identitas mitragynine. Interpretasi tersebut terpisah dari pengukuran kadar melalui UHPLC. Laporan BIOTEK 003 memuat hasil tambahan untuk 7-hydroxymitragynine dan parameter cemaran yang tercantum dalam dokumen.
 

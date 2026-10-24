@@ -40,7 +40,7 @@ export default function LabPage() {
                     <>
                       <div className="document-result"><strong>70.0%</strong><span>Reported mitragynine result<br />Tested sample only · HPLC-UV</span></div>
                       <dl className="output-metadata"><div><dt>Sample ID</dt><dd>2604935-001</dd></div><div><dt>Sample name</dt><dd>Kratom Mitragynine</dd></div><div><dt>Reported</dt><dd>24 April 2026</dd></div><div><dt>Testing scope</dt><dd>Alkaloids, microbiology, metals, residual solvents</dd></div><div><dt>7-Hydroxymitragynine</dt><dd>&lt;1.88% · as reported in the original document</dd></div></dl>
-                      <p className="catalog-note">This report identifies PT Phyto Labs Indonesia as the customer. Results relate only to the submitted sample.</p>
+                      <p className="catalog-note">Customer details have been redacted from this website preview. Results relate only to the submitted sample.</p>
                     </>
                   )}
                   <Link className="button" href={outputContactHref(category, true)}>Request Analysis Documentation <ArrowUpRight size={16} /></Link>
